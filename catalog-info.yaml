@@ -7,6 +7,7 @@ spec:
   type: openapi
   lifecycle: experimental
   owner: pets@example.com
+  archerID: abcd
   definition: |
     openapi: "3.0.0"
     info:
