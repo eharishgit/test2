@@ -8,6 +8,8 @@ spec:
   lifecycle: experimental
   owner: pets@example.com
   archerID: abcd
+  criticality: vital
+  SLA: "99.99"
   definition: |
     openapi: "3.0.0"
     info:
