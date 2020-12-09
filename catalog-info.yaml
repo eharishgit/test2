@@ -5,8 +5,9 @@ metadata:
   description: Petstore
 spec:
   type: openapi
-  lifecycle: experimental
-  owner: pets@example.com
+  lifecycle: production
+  owner: Harish.ekkati@aa.com
+  product-team: ICE
   archerID: abcd
   criticality: vital
   SLA: "99.99"
