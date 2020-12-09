@@ -10,7 +10,7 @@ spec:
   product-team: ICE
   archerID: abcd
   criticality: vital
-  SLA: "99.99"
+  sla: "99.99"
   definition: |
     openapi: "3.0.0"
     info:
