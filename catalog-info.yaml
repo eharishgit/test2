@@ -3,6 +3,9 @@ kind: API
 metadata:
   name: petstore-harish
   description: Petstore
+  tags: 
+    - PII
+    - PCI
 spec:
   type: openapi
   lifecycle: production
