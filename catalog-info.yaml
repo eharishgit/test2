@@ -2,10 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
   name: petstore-harish
-  description: Petstore
-  tags: 
-    - PII
-    - PCI
+  description: Petstore  
 spec:
   type: openapi
   lifecycle: production
