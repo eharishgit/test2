@@ -16,7 +16,7 @@ spec:
       license:
         name: MIT
     servers:
-      - url: http://petstore.swagger.io/v2
+      - url: http://petstore.swagger.io/v3
     paths:
       /pets:
         get:
