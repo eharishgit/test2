@@ -14,7 +14,7 @@ spec:
   archerID: abcd
   criticality: vital
   sla: "99.99"
-  Domain: Flight
+  domain: Flight
   definition: |
     openapi: "3.0.0"
     info:
