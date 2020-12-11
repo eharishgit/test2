@@ -9,8 +9,7 @@ metadata:
 spec:
   type: openapi
   lifecycle: production
-  owner: 
-    -name: Harish.ekkati@aa.com
+  owner: Harish.ekkati@aa.com
   product-team: ICE
   archerID: abcd
   criticality: vital
