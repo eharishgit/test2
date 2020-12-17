@@ -6,6 +6,12 @@ metadata:
   tags:
     - pci
     - pii
+    - test1
+    - test2
+    - hhghghh
+    - test4
+    - test5
+    - test6
 spec:
   type: openapi
   lifecycle: production
