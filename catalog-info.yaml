@@ -16,7 +16,7 @@ spec:
   type: openapi
   lifecycle: production
   owner: Harish.ekkati@aa.com
-  product-team: ICE
+  squad: eSOA
   archerID: abcd
   criticality: vital
   sla: "99.99"
